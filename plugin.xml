@@ -40,7 +40,7 @@
 				</feature>
 				</config-file>
 				<!-- android fix by moataz -->
-				<config-file target="AndroidManifest.xml" parent="/manifest">
+				<config-file target="AndroidManifest.xml" parent="/manifest" package="com.mohgov.uae.MOHAPPP">
 				<queries>
                 <!--<package android:name="com.mohgov.uae.MOHAPPP"/>-->
 					<package android:name="ae.uaepass.mainapp"/>
