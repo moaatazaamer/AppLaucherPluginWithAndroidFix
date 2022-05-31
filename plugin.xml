@@ -38,7 +38,9 @@
 				<feature name="Launcher">
 						<param name="android-package" value="com.hutchind.cordova.plugins.launcher.Launcher" />
 				</feature>
+				</config-file>
 				<!-- android fix by moataz -->
+				<config-file target="AndroidManifest.xml" parent="/manifest">
 				<queries>
                 <package android:name="com.mohgov.uae.MOHAPPP"/>
                 </queries>
