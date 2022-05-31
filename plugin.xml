@@ -40,7 +40,7 @@
 				</feature>
 				<!-- android fix by moataz -->
 				<queries>
-                <package android:name="ae.uaepass.mainapp"/>
+                <package android:name="com.mohgov.uae.MOHAPPP"/>
                 </queries>
 			</config-file>
 			<source-file src="src/android/Launcher.java" target-dir="src/com/hutchind/cordova/plugins/launcher" />
